@@ -2,3 +2,6 @@ db/*
 /Gemfile.lock
 !.gitkeep
 .DS_Store
+
+.ruby-version
+.ruby-gemset
