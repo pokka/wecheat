@@ -24,13 +24,13 @@ git clone https://github.com/xixilive/wecheat && cd wecheat && bundle install &&
 Setup or Purge data for faking
 ----
 ```
-rake setup or purge
+bundle exec rake setup or purge
 ```
 
 Launch App
 ----
 ```
-rackup
+bundle exec rackup
 ```
 
 喜欢点赞(Star)是美德！
